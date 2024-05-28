@@ -1,5 +1,8 @@
 # Terraform State Backend Deployment
 
+## Random String For Solution
+dcum2iwvkp
+
 ## Overview
 This repository contains Terraform code to deploy a state backend for managing the infrastructure state. The state backend is a crucial component of Terraform that stores the state file, which keeps track of the resources provisioned by Terraform.
 
